@@ -1,0 +1,10 @@
+This is
+a sample
+file
+with
+text
+data
+that
+will be
+read by
+a program
