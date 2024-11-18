@@ -8,7 +8,7 @@ import java.time.LocalTime;
 
 public class Server {
     private static final int PORT = 12345;
-    private static final String URL = "jdbc:mysql://localhost:3306/eyeball";
+    private static final String URL = "jdbc:mysql://localhost:3306/teamsea";
     private static final String USER = "root";
     private static final String PASSWORD = null;
 
